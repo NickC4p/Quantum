@@ -1,2 +1,2 @@
 # Quantum
-Quantum is a terminal app for macOS 10.12+.
+All information are in the README## file.
